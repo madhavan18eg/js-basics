@@ -1,4 +1,4 @@
-let a=5;
+let a=10;
 if(a%2==0){
     console.log(a + " is an even number.");
 }   else{
